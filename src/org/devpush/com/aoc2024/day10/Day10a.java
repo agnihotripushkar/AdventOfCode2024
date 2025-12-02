@@ -1,6 +1,6 @@
 package org.devpush.com.aoc2024.day10;
 
-import org.devpush.com.Utils;
+import org.devpush.com.aoc2024.Utils;
 
 import java.util.HashSet;
 import java.util.List;
